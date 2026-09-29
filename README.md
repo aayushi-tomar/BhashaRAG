@@ -48,15 +48,6 @@ Whether you're reading government reports, research papers, policy documents, or
 
 ---
 
-# Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="900"/>
-</p>
-
-> *(Replace with your own GIF or screenshots.)*
-
----
 
 # Why BhashaRAG?
 
