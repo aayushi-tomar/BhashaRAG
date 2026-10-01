@@ -1,0 +1,10 @@
+python-dotenv
+pypdf
+sentence-transformers
+chromadb
+rank_bm25
+google-genai
+requests
+fastapi
+uvicorn
+python-multipart

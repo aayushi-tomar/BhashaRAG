@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+data/audio/*
+!data/audio/.gitkeep
+data/pdfs/*
+!data/pdfs/.gitkeep
