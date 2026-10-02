@@ -177,9 +177,10 @@ def list_documents():
 if __name__ == "__main__":
     import uvicorn
 
-    # Passing the app object means this works from any folder.
+    port = int(os.environ.get("PORT", 10000))
+
     uvicorn.run(
         app,
         host="0.0.0.0",
-        port=int(os.environ.get("PORT", 8000))
+        port=port
     )
