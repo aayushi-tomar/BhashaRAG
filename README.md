@@ -1,4 +1,4 @@
-# 🌏 BhashaRAG
+# 🌏   BhashaRAG
 
 ### Multilingual Retrieval-Augmented Generation for Indian Documents
 
